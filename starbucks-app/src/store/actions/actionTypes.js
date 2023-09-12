@@ -1,0 +1,25 @@
+export const FETCH_ITEM_SUCCESS = "item/fetchItemSuccess"
+export const FETCH_ITEM_REQUEST = "item/fetchItemRequest"
+export const FETCH_ITEM_FAILED = "item/fetchItemFailed"
+export const FETCH_CATEGORY_SUCCESS = "category/fetchCategorySuccess"
+export const FETCH_CATEGORY_REQUEST = "category/fetchCategoryRequest"
+export const FETCH_CATEGORY_FAILED = "category/fetchCategoryFailed"
+export const FETCH_USER_SUCCESS = "user/fetchUserSuccess";
+export const FETCH_USER_REQUEST = "user/fetchUserRequest";
+export const FETCH_USER_FAILED = "user/fetchUserFailed";
+export const ADD_CATEGORY_SUCCESS = "category/addCategory"
+export const ADD_CATEGORY_FAILED = 'category/addCategoryFailed';
+export const ADD_USER_REQUEST = 'user/addUserRequest';
+export const ADD_USER_SUCCESS = 'user/addUserSuccess';
+export const ADD_USER_FAILED = 'user/addUserFailed';
+export const ADD_ITEM_SUCCESS = 'items/addItemSuccess';
+export const ADD_ITEM_FAILED = 'items/addItemFailed';
+export const DELETE_CATEGORY_SUCCESS = "category/deleteCategorySuccess"
+export const DELETE_CATEGORY_FAILED = "category/deleteCategoryFailed"
+export const DELETE_ITEM_SUCCESS = "item/deleteItemSuccess"
+export const DELETE_ITEM_FAILED = "item/deleteItemFailed"
+export const EDIT_ITEM_SUCCESS = 'items/editItemSuccess';
+export const EDIT_ITEM_FAILED = 'items/editItemFailed';
+export const FETCH_DETAIL_SUCCESS = "user/fetchItemDetailSuccess"
+export const FETCH_DETAIL_FAILED = "user/fetchItemDetailFailed"
+
